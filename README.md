@@ -1,1 +1,1 @@
-https://dhodhoo.github.io/who-s-birthday-/index.html
+https://dhodhoo.github.io/birthday/
